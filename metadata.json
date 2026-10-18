@@ -1,0 +1,6 @@
+{
+  "name": "Trò Chơi Bảng Tuần Hoàn Hoá Học - Sổ Điểm Google Sheets",
+  "description": "Trò chơi học tập môn Hóa học với bài tập điền lý thuyết bảng tuần hoàn theo các mức độ Nhận biết, Thông hiểu, Vận dụng; xáo trộn từ khóa ngẫu nhiên, chấm điểm tức thì và đồng bộ dữ liệu hai chiều với Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
